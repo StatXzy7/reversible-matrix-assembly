@@ -1,0 +1,7 @@
+{
+  "kind": "terminal",
+  "setup": [
+    ["{python}", "-m", "unittest", "discover", "-s", "tests"]
+  ],
+  "start": ["{python}", "demo.py"]
+}
